@@ -3,8 +3,12 @@ body
     text-align: center;
     font-family: Arial;
     color: #333;
-    font-size: 16px;
+    font-size: 32px;
+    background: #333;
+    text-align: center;
+   
 }
+
 #cabecera
 {
     background: #33a;
@@ -13,6 +17,12 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0,5em;
+}
+
+#cabecera img {
+    width: 50;
+    vertical-align: middle;
+    
 }
 
 #cabecera #lagLine{
@@ -41,5 +51,7 @@ body
 #post
 {
     padding: 1em;
+    background: white;
+    height: 100%;
 
 }
