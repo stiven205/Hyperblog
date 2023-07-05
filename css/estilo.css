@@ -55,3 +55,9 @@ body
     height: 100%;
 
 }
+
+footer{
+    background: #777;
+    color: white;
+    text-align: center;
+}
